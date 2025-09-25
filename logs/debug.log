@@ -43,3 +43,166 @@
 {"time":"2025-09-25T17:55:06.993Z","level":"debug","message":"Typing message..."}
 {"time":"2025-09-25T18:04:05.405Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=ALi%20Taha"}
 {"time":"2025-09-25T18:04:15.412Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=ALi%20Taha"}
+{"time":"2025-09-25T18:37:16.969Z","level":"debug","message":"Navigating to messenger..."}
+{"time":"2025-09-25T18:38:43.156Z","level":"debug","message":"Navigating to messenger..."}
+{"time":"2025-09-25T18:38:46.697Z","level":"debug","message":"Messenger page loaded","url":"https://www.facebook.com/messages/e2ee/t/8163065080474037/"}
+{"time":"2025-09-25T18:38:46.760Z","level":"debug","message":"Waiting for messenger UI container..."}
+{"time":"2025-09-25T18:38:49.665Z","level":"debug","message":"Messenger main container present"}
+{"time":"2025-09-25T18:38:54.302Z","level":"debug","message":"Looking for messenger-side results..."}
+{"time":"2025-09-25T18:38:58.063Z","level":"debug","message":"Clicked result ancestor in messenger"}
+{"time":"2025-09-25T18:38:58.076Z","level":"debug","message":"Message input not present yet; attempting global search page fallback"}
+{"time":"2025-09-25T18:38:58.077Z","level":"debug","message":"Navigating to global search results","url":"https://www.facebook.com/search/top?q=Mahdi%20Merzaye"}
+{"time":"2025-09-25T18:39:03.302Z","level":"debug","message":"Searching for profile cards containing recipient name..."}
+{"time":"2025-09-25T18:39:03.377Z","level":"debug","message":"Candidate profile cards found count","count":96}
+{"time":"2025-09-25T18:39:05.055Z","level":"debug","message":"Locating message input in chat dialog..."}
+{"time":"2025-09-25T18:39:05.449Z","level":"debug","message":"Typing message..."}
+{"time":"2025-09-25T18:46:34.375Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Execution context was destroyed, most likely because of a navigation"}
+{"time":"2025-09-25T18:50:21.786Z","level":"debug","message":"Navigating to messenger..."}
+{"time":"2025-09-25T18:50:27.528Z","level":"debug","message":"Messenger page loaded","url":"https://www.facebook.com/messages/e2ee/t/8163065080474037/"}
+{"time":"2025-09-25T18:50:27.567Z","level":"debug","message":"Waiting for messenger UI container..."}
+{"time":"2025-09-25T18:50:31.851Z","level":"debug","message":"Messenger main container present"}
+{"time":"2025-09-25T18:50:37.321Z","level":"debug","message":"Looking for messenger-side results..."}
+{"time":"2025-09-25T18:50:42.571Z","level":"debug","message":"Clicked result ancestor in messenger"}
+{"time":"2025-09-25T18:50:42.601Z","level":"debug","message":"Message input not present yet; attempting global search page fallback"}
+{"time":"2025-09-25T18:50:42.607Z","level":"debug","message":"Navigating to global search results","url":"https://www.facebook.com/search/top?q=Mahdi%20Merzaye"}
+{"time":"2025-09-25T18:50:47.980Z","level":"debug","message":"Searching for profile cards containing recipient name..."}
+{"time":"2025-09-25T18:50:48.092Z","level":"debug","message":"Candidate profile cards found count","count":96}
+{"time":"2025-09-25T18:50:50.363Z","level":"debug","message":"Locating message input in chat dialog..."}
+{"time":"2025-09-25T18:50:51.511Z","level":"debug","message":"Typing message..."}
+{"time":"2025-09-25T18:52:19.556Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Mohammad%20Arian"}
+{"time":"2025-09-25T18:58:45.028Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Execution context was destroyed, most likely because of a navigation"}
+{"time":"2025-09-25T18:58:45.843Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:45.878Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:45.880Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:45.888Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:45.935Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:45.981Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.004Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.077Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.079Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.790Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.791Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.792Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.793Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.794Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.795Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.796Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.797Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:46.798Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.506Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.507Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.508Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.509Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.510Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.511Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.512Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.512Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:47.513Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.225Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.227Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.228Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.229Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.230Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.230Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.231Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.232Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.233Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.947Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.949Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.950Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.950Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.951Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.952Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.953Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.954Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:48.955Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.664Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.665Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.666Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.669Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.670Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.671Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.672Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.673Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:49.674Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.380Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.382Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.383Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.383Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.385Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.386Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.387Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.389Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:50.390Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.100Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.101Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.102Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.104Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.105Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.106Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.108Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.110Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.113Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.817Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.819Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.820Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.821Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.822Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.823Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.823Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.824Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:51.825Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.535Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.536Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.537Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.538Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.539Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.540Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.541Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.542Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:52.543Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.250Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.251Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.252Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.253Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.255Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.255Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.256Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.257Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.258Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.968Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.969Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.970Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.971Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.972Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.973Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.974Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.976Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:53.977Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.685Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.686Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.687Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.688Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.689Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.690Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.691Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.692Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:54.693Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.400Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.401Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.402Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.404Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.405Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.406Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.407Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.408Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:55.408Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.116Z","level":"debug","message":"selector check error","selector":"iframe[src*='recaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.116Z","level":"debug","message":"selector check error","selector":"iframe[src*='hcaptcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.118Z","level":"debug","message":"selector check error","selector":"iframe[src*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.118Z","level":"debug","message":"selector check error","selector":"div[id*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.119Z","level":"debug","message":"selector check error","selector":"div[class*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.120Z","level":"debug","message":"selector check error","selector":"div[data-testid*='captcha']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.121Z","level":"debug","message":"selector check error","selector":"form[action*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.122Z","level":"debug","message":"selector check error","selector":"a[href*='/checkpoint']","err":"page.$: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:56.123Z","level":"debug","message":"selector check error","selector":"a[href*='checkpoint']","err":"page.$: Target page, context or browser has been closed"}

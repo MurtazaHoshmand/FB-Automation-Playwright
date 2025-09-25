@@ -6,3 +6,9 @@
 {"time":"2025-09-25T17:24:55.166Z","level":"error","message":"sendFriendRequest exception","error":"this.page.$x is not a function"}
 {"time":"2025-09-25T18:04:14.046Z","level":"error","message":"sendFriendRequest exception","error":"addFriendButtons is not defined"}
 {"time":"2025-09-25T18:04:29.062Z","level":"error","message":"sendFriendRequest exception","error":"addFriendButtons is not defined"}
+{"time":"2025-09-25T18:17:48.127Z","level":"error","message":"Login failed with exception","error":"page.waitForSelector: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#email') to be visible\u001b[22m\n"}
+{"time":"2025-09-25T18:37:16.974Z","level":"error","message":"sendMessage exception","error":"page.goto: Target page, context or browser has been closed","stack":"page.goto: Target page, context or browser has been closed\n    at FacebookController.sendMessage (C:\\Users\\Administrator\\Desktop\\BlueSales\\projects\\fb-automation(playwright)\\src\\controllers\\facebookController.js:546:23)\n    at async file:///C:/Users/Administrator/Desktop/BlueSales/projects/fb-automation(playwright)/src/playwrightServer.js:96:20"}
+{"time":"2025-09-25T18:52:28.012Z","level":"error","message":"sendFriendRequest exception","error":"addFriendButtons is not defined"}
+{"time":"2025-09-25T18:57:48.467Z","level":"error","message":"Login failed with exception","error":"page.$: Execution context was destroyed, most likely because of a navigation"}
+{"time":"2025-09-25T18:58:45.829Z","level":"error","message":"Login failed with exception","error":"keyboard.type: Target page, context or browser has been closed"}
+{"time":"2025-09-25T18:58:57.865Z","level":"error","message":"Login failed with exception","error":"page.goto: Target page, context or browser has been closed"}
