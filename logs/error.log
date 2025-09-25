@@ -1,0 +1,6 @@
+{"time":"2025-09-25T17:06:02.752Z","level":"error","message":"sendFriendRequest exception","error":"page.waitForNavigation: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================"}
+{"time":"2025-09-25T17:10:52.405Z","level":"error","message":"No profile card found for profileName","profileName":"Mokhtar Sultani"}
+{"time":"2025-09-25T17:12:49.146Z","level":"error","message":"sendFriendRequest exception","error":"page.waitForNavigation: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================"}
+{"time":"2025-09-25T17:13:30.631Z","level":"error","message":"No profile card found for profileName","profileName":"Ali Taha"}
+{"time":"2025-09-25T17:14:51.760Z","level":"error","message":"No profile card found for profileName","profileName":"Ali Tanha"}
+{"time":"2025-09-25T17:24:55.166Z","level":"error","message":"sendFriendRequest exception","error":"this.page.$x is not a function"}

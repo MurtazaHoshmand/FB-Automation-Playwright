@@ -1,0 +1,31 @@
+{"time":"2025-09-25T16:54:09.973Z","level":"debug","message":"Navigating to messenger..."}
+{"time":"2025-09-25T16:54:14.042Z","level":"debug","message":"Messenger page loaded","url":"https://www.facebook.com/messages/e2ee/t/7849761188464314/"}
+{"time":"2025-09-25T16:54:14.093Z","level":"debug","message":"Waiting for messenger UI container..."}
+{"time":"2025-09-25T16:54:18.154Z","level":"debug","message":"Messenger main container present"}
+{"time":"2025-09-25T16:54:23.584Z","level":"debug","message":"Looking for messenger-side results..."}
+{"time":"2025-09-25T16:54:24.853Z","level":"debug","message":"Clicked result ancestor in messenger"}
+{"time":"2025-09-25T16:54:24.975Z","level":"debug","message":"Message input not present yet; attempting global search page fallback"}
+{"time":"2025-09-25T16:54:24.979Z","level":"debug","message":"Navigating to global search results","url":"https://www.facebook.com/search/top?q=Mahdi%20Merzaye"}
+{"time":"2025-09-25T16:54:30.423Z","level":"debug","message":"Searching for profile cards containing recipient name..."}
+{"time":"2025-09-25T16:54:30.722Z","level":"debug","message":"Candidate profile cards found count","count":96}
+{"time":"2025-09-25T16:54:34.066Z","level":"debug","message":"Locating message input in chat dialog..."}
+{"time":"2025-09-25T16:54:35.321Z","level":"debug","message":"Typing message..."}
+{"time":"2025-09-25T17:05:26.373Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Mokhtar%20Sultani"}
+{"time":"2025-09-25T17:10:43.719Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Mokhtar%20Sultani"}
+{"time":"2025-09-25T17:12:06.734Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Mokhtar%20Sultani"}
+{"time":"2025-09-25T17:13:25.605Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Ali%20Taha"}
+{"time":"2025-09-25T17:14:35.954Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Ali%20Tanha"}
+{"time":"2025-09-25T17:23:39.617Z","level":"debug","message":"Navigating to messenger..."}
+{"time":"2025-09-25T17:23:46.292Z","level":"debug","message":"Messenger page loaded","url":"https://www.facebook.com/messages/e2ee/t/8163065080474037/"}
+{"time":"2025-09-25T17:23:46.395Z","level":"debug","message":"Waiting for messenger UI container..."}
+{"time":"2025-09-25T17:23:51.172Z","level":"debug","message":"Messenger main container present"}
+{"time":"2025-09-25T17:23:56.558Z","level":"debug","message":"Looking for messenger-side results..."}
+{"time":"2025-09-25T17:24:12.621Z","level":"debug","message":"Clicked result ancestor in messenger"}
+{"time":"2025-09-25T17:24:12.626Z","level":"debug","message":"Message input not present yet; attempting global search page fallback"}
+{"time":"2025-09-25T17:24:12.627Z","level":"debug","message":"Navigating to global search results","url":"https://www.facebook.com/search/top?q=Mahdi%20Merzaye"}
+{"time":"2025-09-25T17:24:20.191Z","level":"debug","message":"Searching for profile cards containing recipient name..."}
+{"time":"2025-09-25T17:24:20.255Z","level":"debug","message":"Candidate profile cards found count","count":34}
+{"time":"2025-09-25T17:24:22.088Z","level":"debug","message":"Locating message input in chat dialog..."}
+{"time":"2025-09-25T17:24:26.550Z","level":"debug","message":"Typing message..."}
+{"time":"2025-09-25T17:24:47.805Z","level":"debug","message":"Navigating to search results","url":"https://www.facebook.com/search/top?q=Ali%20Tanha"}
+{"time":"2025-09-25T17:24:55.165Z","level":"debug","message":"Looking for 'Add Friend' button..."}

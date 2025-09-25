@@ -1,0 +1,54 @@
+{"time":"2025-09-25T16:53:18.005Z","level":"info","message":"Attempting login... (try 1)"}
+{"time":"2025-09-25T16:53:18.008Z","level":"info","message":"Navigating to login page..."}
+{"time":"2025-09-25T16:53:31.955Z","level":"info","message":"Retrying login after captcha (sleep 2748ms)"}
+{"time":"2025-09-25T16:53:34.725Z","level":"info","message":"Attempting login... (try 2)"}
+{"time":"2025-09-25T16:53:34.726Z","level":"info","message":"Navigating to login page..."}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T16:53:46.362Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T16:53:46.364Z","level":"info","message":"Login successful"}
+{"time":"2025-09-25T16:54:07.342Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-25T16:54:18.308Z","level":"info","message":"Messenger search input found","selector":"input[type=\"search\"]"}
+{"time":"2025-09-25T16:54:23.906Z","level":"info","message":"Found messenger-side result rows","count":2}
+{"time":"2025-09-25T16:54:24.854Z","level":"info","message":"Opened chat via messenger result"}
+{"time":"2025-09-25T16:54:32.366Z","level":"info","message":"Clicking message-like button inside profile card","text":"پیام"}
+{"time":"2025-09-25T16:54:32.590Z","level":"info","message":"Clicked 'Message' on global search result, waiting for chat to open"}
+{"time":"2025-09-25T16:54:34.286Z","level":"info","message":"Found message input (will focus and type)..."}
+{"time":"2025-09-25T16:54:44.378Z","level":"info","message":"Message typed and sent"}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T16:54:44.386Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T16:54:44.387Z","level":"info","message":"sendMessage success","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-25T17:04:47.748Z","level":"info","message":"Attempting login... (try 1)"}
+{"time":"2025-09-25T17:04:47.749Z","level":"info","message":"Navigating to login page..."}
+{"time":"2025-09-25T17:04:57.964Z","level":"info","message":"Retrying login after captcha (sleep 2021ms)"}
+{"time":"2025-09-25T17:05:00.007Z","level":"info","message":"Attempting login... (try 2)"}
+{"time":"2025-09-25T17:05:00.008Z","level":"info","message":"Navigating to login page..."}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T17:05:08.988Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T17:05:08.989Z","level":"info","message":"Login successful"}
+{"time":"2025-09-25T17:05:23.744Z","level":"info","message":"sendFriendRequest start","profileName":"Mokhtar Sultani"}
+{"time":"2025-09-25T17:05:32.268Z","level":"info","message":"Clicking profile from search results"}
+{"time":"2025-09-25T17:10:41.768Z","level":"info","message":"sendFriendRequest start","profileName":"Mokhtar Sultani"}
+{"time":"2025-09-25T17:11:23.827Z","level":"info","message":"Attempting login... (try 1)"}
+{"time":"2025-09-25T17:11:23.829Z","level":"info","message":"Navigating to login page..."}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T17:11:36.248Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T17:11:36.249Z","level":"info","message":"Login successful"}
+{"time":"2025-09-25T17:12:04.304Z","level":"info","message":"sendFriendRequest start","profileName":"Mokhtar Sultani"}
+{"time":"2025-09-25T17:12:18.791Z","level":"info","message":"Clicking profile from search results"}
+{"time":"2025-09-25T17:13:24.304Z","level":"info","message":"sendFriendRequest start","profileName":"Ali Taha"}
+{"time":"2025-09-25T17:14:34.130Z","level":"info","message":"sendFriendRequest start","profileName":"Ali Tanha"}
+{"time":"2025-09-25T17:22:53.211Z","level":"info","message":"Attempting login... (try 1)"}
+{"time":"2025-09-25T17:22:53.212Z","level":"info","message":"Navigating to login page..."}
+{"time":"2025-09-25T17:23:04.954Z","level":"info","message":"Retrying login after captcha (sleep 2394ms)"}
+{"time":"2025-09-25T17:23:07.359Z","level":"info","message":"Attempting login... (try 2)"}
+{"time":"2025-09-25T17:23:07.360Z","level":"info","message":"Navigating to login page..."}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T17:23:19.709Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T17:23:19.711Z","level":"info","message":"Login successful"}
+{"time":"2025-09-25T17:23:36.859Z","level":"info","message":"sendMessage start","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-25T17:23:51.595Z","level":"info","message":"Messenger search input found","selector":"input[type=\"search\"]"}
+{"time":"2025-09-25T17:23:56.579Z","level":"info","message":"Found messenger-side result rows","count":2}
+{"time":"2025-09-25T17:24:12.622Z","level":"info","message":"Opened chat via messenger result"}
+{"time":"2025-09-25T17:24:20.455Z","level":"info","message":"Clicking message-like button inside profile card","text":"پیام"}
+{"time":"2025-09-25T17:24:20.542Z","level":"info","message":"Clicked 'Message' on global search result, waiting for chat to open"}
+{"time":"2025-09-25T17:24:26.186Z","level":"info","message":"Found message input (will focus and type)..."}
+{"time":"2025-09-25T17:24:35.796Z","level":"info","message":"Message typed and sent"}
+{"0":"C","1":":","2":"\\","3":"U","4":"s","5":"e","6":"r","7":"s","8":"\\","9":"A","10":"d","11":"m","12":"i","13":"n","14":"i","15":"s","16":"t","17":"r","18":"a","19":"t","20":"o","21":"r","22":"\\","23":"D","24":"e","25":"s","26":"k","27":"t","28":"o","29":"p","30":"\\","31":"B","32":"l","33":"u","34":"e","35":"S","36":"a","37":"l","38":"e","39":"s","40":"\\","41":"p","42":"r","43":"o","44":"j","45":"e","46":"c","47":"t","48":"s","49":"\\","50":"f","51":"b","52":"-","53":"a","54":"u","55":"t","56":"o","57":"m","58":"a","59":"t","60":"i","61":"o","62":"n","63":"(","64":"p","65":"l","66":"a","67":"y","68":"w","69":"r","70":"i","71":"g","72":"h","73":"t","74":")","75":"\\","76":"s","77":"e","78":"s","79":"s","80":"i","81":"o","82":"n","83":"s","84":"\\","85":"d","86":"e","87":"f","88":"a","89":"u","90":"l","91":"t","92":".","93":"j","94":"s","95":"o","96":"n","time":"2025-09-25T17:24:35.803Z","level":"info","message":"Session saved"}
+{"time":"2025-09-25T17:24:35.804Z","level":"info","message":"sendMessage success","recipient":"Mahdi Merzaye"}
+{"time":"2025-09-25T17:24:45.737Z","level":"info","message":"sendFriendRequest start","profileName":"Ali Tanha"}
+{"time":"2025-09-25T17:24:53.353Z","level":"info","message":"Clicked 'Add friend' button"}
