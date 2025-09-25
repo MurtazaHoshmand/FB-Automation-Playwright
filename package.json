@@ -11,8 +11,8 @@
     "ws": "^8.16.0"
   },
   "scripts": {
-    "start": "node src/puppeteerServer.js",
-    "dev": "nodemon src/index.js"
+    "start": "node src/playwrightServer.js",
+    "postinstall": "npx playwright install"
   },
   "description": "",
   "keywords": [],
