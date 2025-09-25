@@ -4,3 +4,5 @@
 {"time":"2025-09-25T17:13:30.631Z","level":"error","message":"No profile card found for profileName","profileName":"Ali Taha"}
 {"time":"2025-09-25T17:14:51.760Z","level":"error","message":"No profile card found for profileName","profileName":"Ali Tanha"}
 {"time":"2025-09-25T17:24:55.166Z","level":"error","message":"sendFriendRequest exception","error":"this.page.$x is not a function"}
+{"time":"2025-09-25T18:04:14.046Z","level":"error","message":"sendFriendRequest exception","error":"addFriendButtons is not defined"}
+{"time":"2025-09-25T18:04:29.062Z","level":"error","message":"sendFriendRequest exception","error":"addFriendButtons is not defined"}

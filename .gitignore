@@ -2,6 +2,7 @@
 /node_modules 
 /vendor
 /screenshots
+/logs
 .env
 *.zip
 .env.backup
