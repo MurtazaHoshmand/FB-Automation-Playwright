@@ -137,5 +137,8 @@ app.post("/uploadSession", async (req, res) => {
 
 // Health
 app.get("/health", (req, res) => res.json({ ok: true }));
+app.get("/test", (req, res) => {
+  res.sendFile(path.join(process.cwd(), "src", "test.html"));
+});
 
 app.listen(3000, () => console.log("Playwright API running on port 3000"));
